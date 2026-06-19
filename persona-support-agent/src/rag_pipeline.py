@@ -10,10 +10,11 @@ def load_documents():
     docs = []
 
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(BASE_DIR, "data")
+    DATA_DIR = os.path.join(BASE_DIR, "data")
 
-for file in os.listdir(DATA_DIR):
-    path = os.path.join(DATA_DIR, file)
+    for file in os.listdir(DATA_DIR):
+        path = os.path.join(DATA_DIR, file)
+
         if file.endswith(".md") or file.endswith(".txt"):
             with open(path, "r", encoding="utf-8") as f:
                 docs.append({
@@ -22,7 +23,6 @@ for file in os.listdir(DATA_DIR):
                 })
 
     return docs
-
 
 def store_documents():
 
