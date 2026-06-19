@@ -1,0 +1,8 @@
+Billing Policy
+
+1. Subscription fees are charged monthly.
+2. Payments are processed automatically.
+3. Failed payments may suspend the account.
+4. Billing disputes require manual review.
+5. Refunds are subject to company policy.
+6. Contact billing support for assistance.

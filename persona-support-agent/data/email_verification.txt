@@ -1,0 +1,6 @@
+Email Verification
+
+1. Verification emails are sent during registration.
+2. Check spam folders if not received.
+3. Verification links expire after 24 hours.
+4. Users can request a new verification email.

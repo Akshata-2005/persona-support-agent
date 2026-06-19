@@ -1,0 +1,7 @@
+Subscription FAQ
+
+1. Users can upgrade plans anytime.
+2. Downgrades take effect next billing cycle.
+3. Premium plans include API access.
+4. Subscription details are available in account settings.
+5. Cancellation stops future billing.
